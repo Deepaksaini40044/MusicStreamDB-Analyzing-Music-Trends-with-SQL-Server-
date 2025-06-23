@@ -1,0 +1,47 @@
+--question 1  list all track by gorillaz.
+
+--question2   Display the top 10 tracks with the highest views.
+
+-----question 3   show all albums of type 'single'.
+
+-----question 4    List distinct values in the album_type column.
+
+---question 5  Find all tracks that contain 'love' in the title.
+
+---question 6 List channels that start with the letter 'S'.
+
+---question 7 show all track titles that end with (official video).
+
+---question 8  find the average, minimum and ,maximum energy of all tracks.
+
+---question 9 how many tracks have a Licensed value of 'TRUE'.
+
+---question 10 what is the total number of views for all tracks by 'Coldplay'
+
+---question 11 find the number of unique artist in the dataset
+
+ ---question 12 calculate the average like per channel.
+
+ ---question 13 show tracks where the danceability is greater than 0.8 and energy is above 0.7.
+
+---question 14 List the track with acousticness
+ --greater than 0.5 and instrumentalness less than 0.1.
+
+ ---question  15 find all track where the official_video is 'False' 
+  --but have more then 1 million views.
+
+  ---question 16 find all track where the most_playedon is 'Spotify'
+--and views are above average views.
+
+---question 17 group by album_types and count the number of tracks in each types
+
+---question 18 find the top 5 artists with the highest average number of streams.
+
+---qustion 19   group by artist and show the total number of views
+---for each,only for those with more than 5 tracks.
+
+---question 20  find the average duration of tracks uploaded on youtube
+
+
+
+
